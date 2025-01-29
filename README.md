@@ -1,0 +1,2 @@
+# mermaid-syntax
+mermaid syntax
